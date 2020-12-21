@@ -33,8 +33,8 @@
 #include <stdbool.h>
 
 /* PKCS#11 includes. */
-#include "core_pkcs11_config.h"
-#include "core_pkcs11.h"
+#include "iot_pkcs11_config.h"
+#include "iot_pkcs11.h"
 
 /* PSA includes. */
 #include "psa/crypto.h"
